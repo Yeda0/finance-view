@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "finance-pratice",
+    "slug": "finance-pratice",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
